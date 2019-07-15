@@ -1,39 +1,7 @@
 'use strict';
 
-/*var array = [];
-
-while(t === Number){
-	var t = Number(prompt('?',''));
-	var sum = 0;
-	for(var k=0; k<=array.length; k++){
-		sum += array[k]
-	if (t === '' || t !== Number || t === Null) {
-		break
-	}else{
-		array[i] = t;
-	}
-	 
-	}
-	console.log(sum);
-}
- console.log(array);*/
-
- /*var arr1=[];
- var sum = 0;
-for(var i=0; i !== false; i++){
- var c = Number(prompt("value",""));
- if (c ==="" || isNaN(c) || c === null){
-  break;
- }else{
-	arr1[i]= c;
-	sum += arr1[i];
- }
- };
-console.log(sum);
-
-console.log(arr1);*/
-
-//Есть объект salaries с зарплатами. Напишите код, который выведет среднее значение всех зарплат. Код должен работать с различным количеством зарплат в объекте.
+//Есть объект salaries с зарплатами. Напишите код, который выведет среднее значение всех зарплат. 
+//Код должен работать с различным количеством зарплат в объекте.
 //Примеры salaries:
 /*var salaries1 = {
    John: 100,
